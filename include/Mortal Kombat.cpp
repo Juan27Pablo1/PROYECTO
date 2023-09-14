@@ -18,12 +18,12 @@ class Fatality{
 
 }
 class Jugador {
-    +Seleccionar()
-    +MoverArriba()
-    +MoverAbajo()
-    +MoverIzquierda()
-    +MoverDerecha()
-}
+    int Seleccionar();
+    int MoverArriba();
+    int MoverAbajo();
+    int MoverIzquierda();
+    int MoverDerecha();
+};
 
 class Escenario
 
